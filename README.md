@@ -5,3 +5,6 @@ The tasks are created by roadmap.sh
 - a simple component for a website that displays a changelog. 
 - Project Link :  https://roadmap.sh/projects/changelog-component
 
+### [testimonial card](https://github.com/GeunYoungPark/Roadmap-sh/tree/main/FontEnd%20projects/Testimonial-Cards)
+- A simple webpage implementation that displays testimonial cards. It uses HTML and CSS only.
+- Project Link : https://roadmap.sh/projects/testimonial-cards
